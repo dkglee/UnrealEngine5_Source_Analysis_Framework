@@ -25,7 +25,11 @@
 
 ---
 
-# 클래스의 역할·기능 및 관계를 표현
+# 동영상 첨부
+
+아래 영상은 실제 제가 옵시디언 툴을 통해서 작성하고 시각적으로 나타낸 것을 보여주는 영상입니다.
+
+### 클래스의 역할·기능 및 관계를 표현
 
 
 https://github.com/user-attachments/assets/6e0b94f6-c407-4e55-8963-4c65cebcbde7
@@ -36,7 +40,7 @@ https://youtu.be/YRUi6Da5C2A
 
 ---
 
-# 엔진 시작 부터 게임 시작 까지의 함수 흐름 표현
+### 엔진 시작 부터 게임 시작 까지의 함수 흐름 표현
 
 
 https://github.com/user-attachments/assets/3bb081fd-b410-4891-a055-892c3f5841e4
