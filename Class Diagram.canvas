@@ -1,0 +1,349 @@
+{
+	"nodes":[
+		{"id":"3466c5be8b2eda53","type":"file","file":"클래스 기반 전체 분석/Class/UEngine.md","x":693,"y":128,"width":667,"height":472},
+		{"id":"a9d7ad688e7d5284","type":"file","file":"클래스 기반 전체 분석/Structure/FEngineLoop.md","x":-400,"y":217,"width":703,"height":293},
+		{"id":"c2721c7d9e379342","type":"file","file":"클래스 기반 전체 분석/Structure/FWorldContext.md","x":653,"y":-480,"width":747,"height":440},
+		{"id":"93692489568edabe","type":"file","file":"클래스 기반 전체 분석/Enum/EWorldType.md","x":573,"y":-1348,"width":907,"height":640},
+		{"id":"8759958b37a98ffa","type":"file","file":"클래스 기반 전체 분석/Class/UObjectBaseUtility.md","x":3202,"y":-4120,"width":929,"height":560},
+		{"id":"29855371514e29cc","type":"file","file":"클래스 기반 전체 분석/Class/UObjectBase.md","x":3246,"y":-4800,"width":840,"height":560},
+		{"id":"d9583a8b165e423b","type":"file","file":"클래스 기반 전체 분석/Class/UObject.md","x":3321,"y":-3400,"width":689,"height":278},
+		{"id":"5bb17dfe30d53ece","type":"file","file":"클래스 기반 전체 분석/Enum/ELevelCollectionType.md","x":4970,"y":2293,"width":700,"height":578},
+		{"id":"9476da030f7c0098","type":"file","file":"클래스 기반 전체 분석/Structure/FLevelCollection.md","x":3990,"y":2319,"width":780,"height":525},
+		{"id":"964fbf34ec3ae9e9","type":"file","file":"클래스 기반 전체 분석/Class/USubsystem.md","x":3405,"y":3200,"width":400,"height":400},
+		{"id":"8c6776b0862024bb","type":"file","file":"클래스 기반 전체 분석/Class/UWorldSubsystem.md","x":2660,"y":3200,"width":400,"height":400},
+		{"id":"a0854d4d4ebb73cd","type":"file","file":"클래스 기반 전체 분석/Structure/FObjectSubsystemCollection.md","x":1525,"y":2392,"width":717,"height":380},
+		{
+			"id":"cad0e7ad15cfa8b1",
+			"type":"file",
+			"file":"KeyWords/KeyWord (PersistentLevel vs. StreamingLevel).md",
+			"styleAttributes":{"border":"dashed"},
+			"x":1800,
+			"y":720,
+			"width":400,
+			"height":400
+		},
+		{
+			"id":"6530aa56371e4699",
+			"type":"file",
+			"file":"KeyWords/KeyWord (Dynamic Allocation_NewObject).md",
+			"styleAttributes":{"border":"dashed"},
+			"x":1800,
+			"y":1178,
+			"width":400,
+			"height":400
+		},
+		{"id":"3ae9391216407ece","type":"file","file":"클래스 기반 전체 분석/Class/UWorld.md","x":3040,"y":-930,"width":1286,"height":2790},
+		{"id":"e3e4b16ad433d5d1","type":"file","file":"클래스 기반 전체 분석/Class/ULevel.md","x":5600,"y":-1000,"width":1280,"height":2748},
+		{
+			"id":"914507dbe00ad6ec",
+			"type":"file",
+			"file":"KeyWords/KeyWord (World Settings).md",
+			"styleAttributes":{"border":"dashed"},
+			"x":4920,
+			"y":-182,
+			"width":400,
+			"height":400
+		},
+		{
+			"id":"e1d2b387bec07252",
+			"type":"file",
+			"file":"KeyWords/KeyWord (OwningWorld vs. OuterPrivate).md",
+			"styleAttributes":{"border":"dashed"},
+			"x":4920,
+			"y":668,
+			"width":400,
+			"height":400
+		},
+		{
+			"id":"509bc2d5af70cd89",
+			"type":"file",
+			"file":"KeyWords/KeyWord ((ULevel)EIncrementalComponentState).md",
+			"styleAttributes":{"border":"dashed"},
+			"x":4920,
+			"y":1138,
+			"width":400,
+			"height":400
+		},
+		{
+			"id":"51a2ea2b58ae9987",
+			"type":"file",
+			"file":"KeyWords/KeyWord (Bit Assignment).md",
+			"styleAttributes":{"border":"dashed"},
+			"x":4920,
+			"y":1638,
+			"width":400,
+			"height":400
+		},
+		{
+			"id":"b8a5ce8fc6b9eb4d",
+			"type":"file",
+			"file":"KeyWords/KeyWord (AActor 초기화 순서).md",
+			"styleAttributes":{"border":"dashed"},
+			"x":7280,
+			"y":668,
+			"width":840,
+			"height":400
+		},
+		{
+			"id":"14c21f0f3a1cc5fc",
+			"type":"file",
+			"file":"KeyWords/KeyWord (ParentComponent).md",
+			"styleAttributes":{"border":"dashed"},
+			"x":7280,
+			"y":1178,
+			"width":840,
+			"height":400
+		},
+		{"id":"b44f50c56052955a","type":"file","file":"클래스 기반 전체 분석/Class/AActor.md","x":8270,"y":-1600,"width":1400,"height":3948},
+		{"id":"14feaa3c6b0e233e","type":"file","file":"클래스 기반 전체 분석/Structure/FSubsystemCollectionBase.md","x":2440,"y":2138,"width":840,"height":888}
+	],
+	"edges":[
+		{
+			"id":"f83f399149708090",
+			"toFloating":false,
+			"styleAttributes":{"path":"dotted"},
+			"fromFloating":false,
+			"fromNode":"c2721c7d9e379342",
+			"fromSide":"top",
+			"toNode":"93692489568edabe",
+			"toSide":"bottom",
+			"label":"Has A"
+		},
+		{
+			"id":"9350effe914241fb",
+			"toFloating":false,
+			"fromFloating":false,
+			"styleAttributes":{"path":"dotted"},
+			"fromNode":"3466c5be8b2eda53",
+			"fromSide":"top",
+			"toNode":"c2721c7d9e379342",
+			"toSide":"bottom",
+			"label":"Has A"
+		},
+		{"id":"f4004faa47f71d23","fromNode":"a9d7ad688e7d5284","fromSide":"right","toNode":"3466c5be8b2eda53","toSide":"left","toEnd":"none"},
+		{
+			"id":"5fe4cd60d9ce999c",
+			"fromFloating":false,
+			"toFloating":false,
+			"styleAttributes":{"path":"dotted"},
+			"fromNode":"3466c5be8b2eda53",
+			"fromSide":"right",
+			"toNode":"3ae9391216407ece",
+			"toSide":"left",
+			"label":"Indirect Access"
+		},
+		{"id":"2092ec3ac2641637","toFloating":false,"fromNode":"d9583a8b165e423b","fromSide":"top","toNode":"8759958b37a98ffa","toSide":"bottom","label":"Is A"},
+		{"id":"58110b6b814e2bff","fromFloating":false,"fromNode":"8759958b37a98ffa","fromSide":"top","toNode":"29855371514e29cc","toSide":"bottom","label":"Is A"},
+		{"id":"a819f3071ac42bba","fromFloating":false,"fromNode":"3ae9391216407ece","fromSide":"top","toNode":"d9583a8b165e423b","toSide":"bottom","label":"Is A"},
+		{
+			"id":"a2b2a8dd676d6ae3",
+			"toFloating":false,
+			"styleAttributes":{
+				"arrow":null
+			},
+			"fromFloating":false,
+			"fromNode":"e3e4b16ad433d5d1",
+			"fromSide":"top",
+			"toNode":"d9583a8b165e423b",
+			"toSide":"bottom",
+			"label":"Is A"
+		},
+		{
+			"id":"390c03b20d184f23",
+			"fromFloating":false,
+			"toFloating":false,
+			"styleAttributes":{"path":"dotted"},
+			"fromNode":"3ae9391216407ece",
+			"fromSide":"right",
+			"toNode":"e3e4b16ad433d5d1",
+			"toSide":"left",
+			"label":"Has A"
+		},
+		{"id":"3935a877c2693576","fromFloating":false,"toFloating":false,"fromNode":"3466c5be8b2eda53","fromSide":"right","toNode":"d9583a8b165e423b","toSide":"bottom","label":"Is A"},
+		{
+			"id":"4653612cb1f14670",
+			"styleAttributes":{"path":"dotted"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"c2721c7d9e379342",
+			"fromSide":"right",
+			"toNode":"3ae9391216407ece",
+			"toSide":"left",
+			"label":"Has A"
+		},
+		{
+			"id":"ce7830e50d2a9e6e",
+			"styleAttributes":{"path":"dotted"},
+			"toFloating":false,
+			"fromNode":"e3e4b16ad433d5d1",
+			"fromSide":"left",
+			"toNode":"e1d2b387bec07252",
+			"toSide":"right",
+			"toEnd":"none"
+		},
+		{
+			"id":"059797df781abbb3",
+			"styleAttributes":{"path":"dotted"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"cad0e7ad15cfa8b1",
+			"fromSide":"right",
+			"toNode":"3ae9391216407ece",
+			"toSide":"left",
+			"toEnd":"none"
+		},
+		{
+			"id":"e5d7f75095c76a99",
+			"styleAttributes":{"path":"dotted"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"e3e4b16ad433d5d1",
+			"fromSide":"right",
+			"toNode":"b44f50c56052955a",
+			"toSide":"left",
+			"label":"Has A"
+		},
+		{
+			"id":"9ea66eb8ca956fd4",
+			"styleAttributes":{"path":"dotted"},
+			"toFloating":false,
+			"fromNode":"b44f50c56052955a",
+			"fromSide":"left",
+			"toNode":"b8a5ce8fc6b9eb4d",
+			"toSide":"right",
+			"toEnd":"none"
+		},
+		{
+			"id":"109931f229a75a7f",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"b44f50c56052955a",
+			"fromSide":"top",
+			"toNode":"d9583a8b165e423b",
+			"toSide":"bottom",
+			"label":"Is A"
+		},
+		{
+			"id":"485a6ff7931884d3",
+			"styleAttributes":{"path":"dotted"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"3ae9391216407ece",
+			"fromSide":"bottom",
+			"toNode":"a0854d4d4ebb73cd",
+			"toSide":"top",
+			"label":"Has A"
+		},
+		{
+			"id":"f0f319b1d246b1c4",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"a0854d4d4ebb73cd",
+			"fromSide":"right",
+			"toNode":"14feaa3c6b0e233e",
+			"toSide":"left",
+			"label":"Is A"
+		},
+		{
+			"id":"089ee9cf31c462eb",
+			"styleAttributes":{"path":"dotted"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"3ae9391216407ece",
+			"fromSide":"bottom",
+			"toNode":"9476da030f7c0098",
+			"toSide":"top",
+			"label":"Has A"
+		},
+		{
+			"id":"6800346988bd4b83",
+			"styleAttributes":{"path":"dotted"},
+			"toFloating":false,
+			"fromNode":"9476da030f7c0098",
+			"fromSide":"right",
+			"toNode":"5bb17dfe30d53ece",
+			"toSide":"left",
+			"label":"Has A"
+		},
+		{
+			"id":"637b9adfe62f6014",
+			"styleAttributes":{"path":"dotted"},
+			"toFloating":false,
+			"fromNode":"509bc2d5af70cd89",
+			"fromSide":"right",
+			"toNode":"e3e4b16ad433d5d1",
+			"toSide":"left",
+			"toEnd":"none"
+		},
+		{
+			"id":"b3cf27a75db9ef7a",
+			"styleAttributes":{"path":"dotted"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"14c21f0f3a1cc5fc",
+			"fromSide":"right",
+			"toNode":"b44f50c56052955a",
+			"toSide":"left",
+			"toEnd":"none"
+		},
+		{
+			"id":"54e6aa9ea8e0ad8f",
+			"styleAttributes":{"path":"dotted"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"51a2ea2b58ae9987",
+			"fromSide":"right",
+			"toNode":"e3e4b16ad433d5d1",
+			"toSide":"left",
+			"toEnd":"none"
+		},
+		{
+			"id":"1d521adde841dda6",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"8c6776b0862024bb",
+			"fromSide":"right",
+			"toNode":"964fbf34ec3ae9e9",
+			"toSide":"left",
+			"label":"Is A"
+		},
+		{
+			"id":"5d704a4aea4bd2d4",
+			"styleAttributes":{"path":"dotted"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"14feaa3c6b0e233e",
+			"fromSide":"bottom",
+			"toNode":"8c6776b0862024bb",
+			"toSide":"top",
+			"label":"Has A"
+		},
+		{
+			"id":"b263e8e9c697a4b3",
+			"styleAttributes":{"path":"dotted"},
+			"toFloating":false,
+			"fromNode":"914507dbe00ad6ec",
+			"fromSide":"right",
+			"toNode":"e3e4b16ad433d5d1",
+			"toSide":"left",
+			"toEnd":"none"
+		},
+		{
+			"id":"2b49a22ca0a09341",
+			"styleAttributes":{"path":"dotted"},
+			"toFloating":false,
+			"fromNode":"6530aa56371e4699",
+			"fromSide":"right",
+			"toNode":"3ae9391216407ece",
+			"toSide":"left",
+			"toEnd":"none"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

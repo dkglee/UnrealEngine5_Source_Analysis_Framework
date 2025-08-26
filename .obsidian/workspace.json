@@ -1,0 +1,256 @@
+{
+  "main": {
+    "id": "ed5d2f02807c8d0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d996c396cef8a58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7effed744b4773f",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Flow Chart (함수 기반).canvas",
+                "viewState": {
+                  "x": 8485.096912835252,
+                  "y": 3287.168760324652,
+                  "zoom": -0.87311128718919
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Flow Chart (함수 기반)"
+            }
+          },
+          {
+            "id": "4a6b208ca1fa45b3",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Class Diagram.canvas",
+                "viewState": {
+                  "x": 3611.6826294265957,
+                  "y": -29.058494211624122,
+                  "zoom": -3.4560007132370236
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Class Diagram"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "84e631bd6d227c4c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ff66fdfc892617a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "488bc989d54b8645",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "f9c2c91fa7fe30b5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "5502efefab445d61",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bfcb68640a6da961",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5377ed9b31e4d77",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f4ecf11095efd6d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Class Diagram.canvas",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Class Diagram 의 백링크"
+            }
+          },
+          {
+            "id": "0867cac46bd2e422",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Class Diagram.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Class Diagram 의 나가는 링크"
+            }
+          },
+          {
+            "id": "69f4be1742786c6c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "54149057b8f93bd7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Flow Chart (함수 기반).canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Flow Chart (함수 기반) 의 개요"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "7f6f8f4c1ced8f4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80e33761c2c2bb1f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:새 베이스 생성하기": false,
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "488bc989d54b8645",
+  "lastOpenFiles": [
+    "README.md",
+    "Class Diagram.canvas",
+    "무제.base",
+    "Flow Chart (함수 기반).canvas",
+    "무제 3.base",
+    "무제 2.base",
+    "무제 1.base",
+    "클래스 기반 전체 분석/Class/UWorld.md",
+    "함수 기반 상세 분석/UActorComponent/(UActorComponent)Activate.md",
+    "함수 기반 상세 분석/UActorComponent/(UActorComponent)UpdateComponentToWorld.md",
+    "함수 기반 상세 분석/UActorComponent/(UActorComponent)OnRegister.md",
+    "함수 기반 상세 분석/UActorComponent/(UActorComponent)ExecuteRegisterEvents(미완).md",
+    "함수 기반 상세 분석/UActorComponent/(UActorComponent)RegisterComponentWithWorld(미완).md",
+    "함수 기반 상세 분석/UActorComponent",
+    "함수 기반 상세 분석/UWorld/(UWorld)InitializeNewWorld.md",
+    "함수 기반 상세 분석/UWorld/(UWorld)UpdateWorldComponents(미완).md",
+    "함수 기반 상세 분석/UWorld/(UWorld)PostInitializeSubsystems.md",
+    "함수 기반 상세 분석/UWorld/(UWorld)InternalGetDefaultPhysicsVolume.md",
+    "함수 기반 상세 분석/UWorld/(UWorld)GetDefaultPhysicsVolume.md",
+    "함수 기반 상세 분석/UWorld/(UWorld)GetWorldSettings.md",
+    "함수 기반 상세 분석/UWorld/(UWorld)CreateWorld[S].md",
+    "함수 기반 상세 분석/USubsystem/(USubsystem)ShouldCreateSubsystem.md",
+    "함수 기반 상세 분석/USubsystem",
+    "KeyWords/KeyWord (Dynamic Allocation_NewObject).md",
+    "함수 기반 상세 분석/FSubsystemCollectionBase/(FSubsystemCollectionBase)AddAndInitializeSubsystem.md",
+    "함수 기반 상세 분석/FSubsystemCollectionBase/(FSubsystemCollectionBase)Initialize.md",
+    "함수 기반 상세 분석/FSubsystemCollectionBase",
+    "함수 기반 상세 분석/UWorld/(UWorld)InitializeSubsystems.md",
+    "함수 기반 상세 분석/UWorld/(UWorld)InitWorld.md",
+    "KeyWords/KeyWord (World Settings).md",
+    "KeyWords/KeyWord (PersistentLevel vs. StreamingLevel).md",
+    "클래스 기반 전체 분석/Structure/FWorldInitializationValues.md",
+    "클래스 기반 전체 분석/Class/USubsystem.md",
+    "클래스 기반 전체 분석/Class/UWorldSubsystem.md",
+    "KeyWords/KeyWord (Bit Assignment).md",
+    "Images",
+    "Images/Pasted image 20250729161426.png",
+    "클래스 기반 전체 분석/Structure",
+    "클래스 기반 전체 분석/Class",
+    "Pasted image 20250726155432.png",
+    "Pasted image 20250726155429.png",
+    "무제 2.canvas",
+    "무제 1.canvas"
+  ]
+}

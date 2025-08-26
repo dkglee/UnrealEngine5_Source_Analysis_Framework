@@ -1,0 +1,9 @@
+{
+  "baseFontSize": 14,
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "font"
+  ],
+  "cssTheme": "",
+  "theme": "system"
+}

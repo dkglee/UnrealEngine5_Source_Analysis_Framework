@@ -1,0 +1,329 @@
+{
+	"nodes":[
+		{"id":"1ffedccf07a9f768","type":"group","x":-1180,"y":-340,"width":2820,"height":3280,"label":"Engine Launch (메인 시작 점)"},
+		{"id":"4cd42a1de8908421","type":"file","file":"함수 기반 상세 분석/UWorld/(UWorld)InitWorld.md","x":6480,"y":1600,"width":880,"height":1747},
+		{"id":"90b511ee6cfb5795","type":"file","file":"함수 기반 상세 분석/UWorld/(UWorld)UpdateWorldComponents(미완).md","x":6340,"y":4640,"width":1160,"height":1360},
+		{"id":"48e255c6b81744b2","type":"file","file":"함수 기반 상세 분석/Main/LaunchWindowsStartup.md","x":-300,"y":160,"width":1060,"height":840},
+		{"id":"38b1f5b909533a94","type":"file","file":"함수 기반 상세 분석/Main/WinMain.md","x":-300,"y":-280,"width":1060,"height":300},
+		{
+			"id":"d89e7c88c04f753e",
+			"type":"file",
+			"file":"KeyWords/KeyWord (SEH).md",
+			"styleAttributes":{"border":"dashed"},
+			"x":-897,
+			"y":378,
+			"width":400,
+			"height":400
+		},
+		{"id":"09185702e46c0e58","type":"file","file":"함수 기반 상세 분석/Main/GuardedMainWrapper.md","x":-300,"y":1172,"width":1060,"height":308},
+		{"id":"908b713780283836","type":"file","file":"함수 기반 상세 분석/FSubsystemCollectionBase/(FSubsystemCollectionBase)AddAndInitializeSubsystem.md","x":9080,"y":1463,"width":720,"height":560},
+		{"id":"dfc8912db8322800","type":"file","file":"함수 기반 상세 분석/FSubsystemCollectionBase/(FSubsystemCollectionBase)Initialize.md","x":8300,"y":1383,"width":600,"height":720},
+		{"id":"65358e59e29be94d","type":"file","file":"함수 기반 상세 분석/UWorld/(UWorld)InternalGetDefaultPhysicsVolume.md","x":9080,"y":2661,"width":1000,"height":612},
+		{"id":"ba30b79cff019e5d","type":"file","file":"함수 기반 상세 분석/USubsystem/(USubsystem)ShouldCreateSubsystem.md","x":9920,"y":1628,"width":400,"height":230},
+		{"id":"aa93243bac22b043","type":"file","file":"함수 기반 상세 분석/UActorComponent/(UActorComponent)ExecuteRegisterEvents(미완).md","x":9280,"y":4400,"width":940,"height":540},
+		{"id":"3043ea29a7b8023f","type":"file","file":"함수 기반 상세 분석/UEngine/(UEngine)CreateNewWorldContext.md","x":3940,"y":2020,"width":925,"height":340},
+		{"id":"e436bede8d03e943","type":"file","file":"함수 기반 상세 분석/UWorld/(UWorld)CreateWorld[S].md","x":3960,"y":3040,"width":959,"height":1280},
+		{"id":"3163e31e383e2970","type":"file","file":"함수 기반 상세 분석/FWorldContext/(FWorldContext)SetCurrentWorld.md","x":3940,"y":2559,"width":629,"height":317},
+		{"id":"c58653bc6197178b","type":"file","file":"함수 기반 상세 분석/UActorComponent/(UActorComponent)OnRegister.md","x":10480,"y":4390,"width":980,"height":560},
+		{"id":"54dda1fe719bb3b5","type":"file","file":"함수 기반 상세 분석/UWorld/(UWorld)InitializeNewWorld.md","x":5200,"y":3000,"width":880,"height":1360},
+		{"id":"c84e2bd7d5dc0513","type":"file","file":"함수 기반 상세 분석/UEngine/(UEngine)Init.md","x":3000,"y":2447,"width":742,"height":540},
+		{
+			"id":"2d13fd3f620de7f2",
+			"type":"file",
+			"file":"KeyWords/KeyWord (TArray vs. TIndirectArray).md",
+			"styleAttributes":{"border":"dashed"},
+			"x":3280,
+			"y":1680,
+			"width":400,
+			"height":400
+		},
+		{
+			"id":"a287086e31e32a50",
+			"type":"file",
+			"file":"KeyWords/KeyWord (Transient).md",
+			"styleAttributes":{"border":"dashed"},
+			"x":3091,
+			"y":3560,
+			"width":560,
+			"height":220
+		},
+		{"id":"2156e0529aea65ff","type":"file","file":"함수 기반 상세 분석/UWorld/(UWorld)GetDefaultPhysicsVolume.md","x":7700,"y":2873,"width":1160,"height":180},
+		{"id":"4377800cc1612340","type":"file","file":"함수 기반 상세 분석/UWorld/(UWorld)GetWorldSettings.md","x":7700,"y":2273,"width":780,"height":400},
+		{"id":"28c56be73ecab14c","type":"text","text":"TICK","x":105,"y":3200,"width":250,"height":60},
+		{"id":"663b55ccfbcbaa6b","type":"file","file":"함수 기반 상세 분석/UWorld/(UWorld)InitializeSubsystems.md","x":7720,"y":1653,"width":400,"height":180},
+		{"id":"2a9e1bd17b856ce4","type":"file","file":"함수 기반 상세 분석/UWorld/(UWorld)PostInitializeSubsystems.md","x":7700,"y":3273,"width":640,"height":340},
+		{"id":"bc7aac59e9e5d980","type":"file","file":"함수 기반 상세 분석/UActorComponent/(UActorComponent)RegisterComponentWithWorld(미완).md","x":7800,"y":4460,"width":1120,"height":1720},
+		{"id":"93247836c3f30090","type":"file","file":"함수 기반 상세 분석/FEngineLoop/(FEngineLoop)PreInit.md","x":1860,"y":1600,"width":742,"height":233},
+		{"id":"b7a1f17ac9ac3483","type":"file","file":"함수 기반 상세 분석/Main/EditorInit.md","x":1106,"y":2613,"width":450,"height":207},
+		{"id":"0616227830f1bfd9","type":"file","file":"함수 기반 상세 분석/UActorComponent/(UActorComponent)UpdateComponentToWorld.md","x":11720,"y":4360,"width":1260,"height":160},
+		{"id":"c9163199dc1614c6","type":"file","file":"함수 기반 상세 분석/UActorComponent/(UActorComponent)Activate.md","x":11720,"y":4750,"width":680,"height":400},
+		{"id":"219f9e07cd42dc2d","type":"file","file":"함수 기반 상세 분석/FEngineLoop/(FEngineLoop)Init.md","x":1860,"y":2291,"width":952,"height":851},
+		{
+			"id":"429849168c94486c",
+			"type":"file",
+			"file":"Pattern/Pattern (Scope-Guard).md",
+			"styleAttributes":{"border":"dashed"},
+			"x":-1120,
+			"y":2054,
+			"width":400,
+			"height":400
+		},
+		{
+			"id":"fa595e0a330e25ba",
+			"type":"file",
+			"file":"KeyWords/KeyWord (CoreDelegate).md",
+			"styleAttributes":{"border":"dashed"},
+			"x":-1120,
+			"y":1587,
+			"width":480,
+			"height":193
+		},
+		{"id":"c326997bb38d5309","type":"file","file":"함수 기반 상세 분석/Main/EnginePreInit.md","x":1041,"y":1593,"width":579,"height":247},
+		{"id":"39fc989a1a770e62","type":"file","file":"함수 기반 상세 분석/Main/GuardMain.md","x":-300,"y":1587,"width":1060,"height":1333},
+		{
+			"id":"329c89e4a4b5b9ca",
+			"type":"file",
+			"file":"Pattern/Pattern (ElapseTime).md",
+			"styleAttributes":{"border":"dashed"},
+			"x":-1120,
+			"y":2736,
+			"width":400,
+			"height":184
+		}
+	],
+	"edges":[
+		{"id":"9eb7431e8c3314ce","fromNode":"38b1f5b909533a94","fromSide":"bottom","toNode":"48e255c6b81744b2","toSide":"top"},
+		{
+			"id":"af199b97e191daec",
+			"toFloating":false,
+			"styleAttributes":{"path":"dotted"},
+			"fromNode":"48e255c6b81744b2",
+			"fromSide":"left",
+			"toNode":"d89e7c88c04f753e",
+			"toSide":"right",
+			"toEnd":"none"
+		},
+		{"id":"0fdc6034ac8877cb","fromNode":"48e255c6b81744b2","fromSide":"bottom","toNode":"09185702e46c0e58","toSide":"top"},
+		{"id":"adb3ebd259b67d6b","fromNode":"09185702e46c0e58","fromSide":"bottom","toNode":"39fc989a1a770e62","toSide":"top"},
+		{
+			"id":"a98375048b93824c",
+			"fromFloating":false,
+			"styleAttributes":{"path":"dotted"},
+			"fromNode":"39fc989a1a770e62",
+			"fromSide":"left",
+			"toNode":"fa595e0a330e25ba",
+			"toSide":"right",
+			"toEnd":"none"
+		},
+		{
+			"id":"e3324b98f3b05505",
+			"fromFloating":false,
+			"styleAttributes":{"path":"dotted"},
+			"fromNode":"39fc989a1a770e62",
+			"fromSide":"left",
+			"toNode":"329c89e4a4b5b9ca",
+			"toSide":"right",
+			"toEnd":"none"
+		},
+		{
+			"id":"5b3d75eeb69b1371",
+			"toFloating":false,
+			"styleAttributes":{"path":"dotted"},
+			"fromNode":"39fc989a1a770e62",
+			"fromSide":"left",
+			"toNode":"429849168c94486c",
+			"toSide":"right",
+			"toEnd":"none"
+		},
+		{"id":"3d616e39063116cb","toFloating":false,"fromNode":"39fc989a1a770e62","fromSide":"right","toNode":"c326997bb38d5309","toSide":"left","label":"1"},
+		{"id":"c8e87fdcf133b46f","fromNode":"c326997bb38d5309","fromSide":"right","toNode":"93247836c3f30090","toSide":"left"},
+		{"id":"f6f808c77cd7405b","toFloating":false,"fromNode":"39fc989a1a770e62","fromSide":"right","toNode":"b7a1f17ac9ac3483","toSide":"left","label":"2"},
+		{"id":"1fb1f96dfbbb706d","fromNode":"b7a1f17ac9ac3483","fromSide":"right","toNode":"219f9e07cd42dc2d","toSide":"left"},
+		{"id":"0b698538d945b809","fromFloating":false,"fromNode":"219f9e07cd42dc2d","fromSide":"right","toNode":"c84e2bd7d5dc0513","toSide":"left"},
+		{"id":"ebacb948823f35b9","fromFloating":false,"fromNode":"c84e2bd7d5dc0513","fromSide":"right","toNode":"3043ea29a7b8023f","toSide":"left","label":"1"},
+		{
+			"id":"822a1e41ea01fe26",
+			"toFloating":false,
+			"styleAttributes":{"path":"dotted"},
+			"fromNode":"3043ea29a7b8023f",
+			"fromSide":"left",
+			"toNode":"2d13fd3f620de7f2",
+			"toSide":"right",
+			"toEnd":"none"
+		},
+		{"id":"b8da75354e109cf0","toFloating":false,"fromNode":"c84e2bd7d5dc0513","fromSide":"right","toNode":"3163e31e383e2970","toSide":"left","label":"2"},
+		{"id":"b63d76629a52d531","fromNode":"39fc989a1a770e62","fromSide":"bottom","toNode":"28c56be73ecab14c","toSide":"top"},
+		{"id":"457643a7fd08dca7","fromFloating":false,"fromNode":"c84e2bd7d5dc0513","fromSide":"right","toNode":"e436bede8d03e943","toSide":"left","label":"3"},
+		{
+			"id":"b5e158c5a2df1fab",
+			"fromFloating":false,
+			"styleAttributes":{"path":"dotted"},
+			"fromNode":"e436bede8d03e943",
+			"fromSide":"left",
+			"toNode":"a287086e31e32a50",
+			"toSide":"right",
+			"toEnd":"none"
+		},
+		{
+			"id":"0c1d1c9c5aa765a8",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"e436bede8d03e943",
+			"fromSide":"right",
+			"toNode":"54dda1fe719bb3b5",
+			"toSide":"left"
+		},
+		{
+			"id":"a3a3bd9e55d65f3a",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"54dda1fe719bb3b5",
+			"fromSide":"right",
+			"toNode":"4cd42a1de8908421",
+			"toSide":"left",
+			"label":"1"
+		},
+		{
+			"id":"1f6da8aa7d4c942d",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"4cd42a1de8908421",
+			"fromSide":"right",
+			"toNode":"663b55ccfbcbaa6b",
+			"toSide":"left",
+			"label":"1"
+		},
+		{
+			"id":"bc4ab86848daa25e",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"663b55ccfbcbaa6b",
+			"fromSide":"right",
+			"toNode":"dfc8912db8322800",
+			"toSide":"left"
+		},
+		{
+			"id":"4a7f0543ca5d896b",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"dfc8912db8322800",
+			"fromSide":"right",
+			"toNode":"908b713780283836",
+			"toSide":"left"
+		},
+		{
+			"id":"d176b347516040c0",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"908b713780283836",
+			"fromSide":"right",
+			"toNode":"ba30b79cff019e5d",
+			"toSide":"left"
+		},
+		{
+			"id":"251183cf81932a91",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"4cd42a1de8908421",
+			"fromSide":"right",
+			"toNode":"4377800cc1612340",
+			"toSide":"left",
+			"label":"2"
+		},
+		{
+			"id":"17a406e0a278c1ac",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"4cd42a1de8908421",
+			"fromSide":"right",
+			"toNode":"2156e0529aea65ff",
+			"toSide":"left",
+			"label":"3"
+		},
+		{
+			"id":"9f38c385321c3fd6",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"2156e0529aea65ff",
+			"fromSide":"right",
+			"toNode":"65358e59e29be94d",
+			"toSide":"left"
+		},
+		{
+			"id":"aad70751266fea5f",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"4cd42a1de8908421",
+			"fromSide":"right",
+			"toNode":"2a9e1bd17b856ce4",
+			"toSide":"left",
+			"label":"4"
+		},
+		{
+			"id":"898d9b1b7f01363c",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"54dda1fe719bb3b5",
+			"fromSide":"right",
+			"toNode":"90b511ee6cfb5795",
+			"toSide":"left",
+			"label":"2"
+		},
+		{
+			"id":"b50a5f694fdb4a4e",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"90b511ee6cfb5795",
+			"fromSide":"right",
+			"toNode":"bc7aac59e9e5d980",
+			"toSide":"left"
+		},
+		{
+			"id":"72ab9f1d9d50731c",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"bc7aac59e9e5d980",
+			"fromSide":"right",
+			"toNode":"aa93243bac22b043",
+			"toSide":"left",
+			"label":"1"
+		},
+		{
+			"id":"236df56015581146",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"aa93243bac22b043",
+			"fromSide":"right",
+			"toNode":"c58653bc6197178b",
+			"toSide":"left"
+		},
+		{
+			"id":"9408aa8da4bceaa9",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"c58653bc6197178b",
+			"fromSide":"right",
+			"toNode":"0616227830f1bfd9",
+			"toSide":"left",
+			"label":"1"
+		},
+		{
+			"id":"aa9d19a93bf5a870",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"c58653bc6197178b",
+			"fromSide":"right",
+			"toNode":"c9163199dc1614c6",
+			"toSide":"left",
+			"label":"2"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
