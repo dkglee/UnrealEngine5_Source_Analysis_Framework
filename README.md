@@ -25,26 +25,6 @@
 
 ---
 
-# 분석 내용 보러 가기
-
-## 클래스 분석
-[클래스 분석 보러 가기](https://github.com/dkglee/UnrealEngine5_Source_Analysis_Framework/tree/main/%ED%81%B4%EB%9E%98%EC%8A%A4%20%EA%B8%B0%EB%B0%98%20%EC%A0%84%EC%B2%B4%20%EB%B6%84%EC%84%9D/Class) <br>
-
-### 예: UObjectBaseUtilty 분석 내용
-[바로 가기](https://github.com/dkglee/UnrealEngine5_Source_Analysis_Framework/blob/main/%ED%81%B4%EB%9E%98%EC%8A%A4%20%EA%B8%B0%EB%B0%98%20%EC%A0%84%EC%B2%B4%20%EB%B6%84%EC%84%9D/Class/UObjectBaseUtility.md)
-
-[![UObjectBaseUtility](https://github.com/user-attachments/assets/761eb204-0611-4f27-beaf-834c7fce6ca0)](https://github.com/dkglee/UnrealEngine5_Source_Analysis_Framework/blob/main/%ED%81%B4%EB%9E%98%EC%8A%A4%20%EA%B8%B0%EB%B0%98%20%EC%A0%84%EC%B2%B4%20%EB%B6%84%EC%84%9D/Class/UObjectBaseUtility.md)
-
-## 함수 분석
-[함수 분석 보러 가기](https://github.com/dkglee/UnrealEngine5_Source_Analysis_Framework/tree/main/%ED%95%A8%EC%88%98%20%EA%B8%B0%EB%B0%98%20%EC%83%81%EC%84%B8%20%EB%B6%84%EC%84%9D)
-
-### 예: UWorld::InitializeNewWorld 분석 내용
-[바로 가기](https://github.com/dkglee/UnrealEngine5_Source_Analysis_Framework/blob/main/%ED%95%A8%EC%88%98%20%EA%B8%B0%EB%B0%98%20%EC%83%81%EC%84%B8%20%EB%B6%84%EC%84%9D/UWorld/(UWorld)InitializeNewWorld.md)
-[![image](https://github.com/user-attachments/assets/c3b4e195-63af-45e3-b4ea-16ba303c64fd)](https://github.com/dkglee/UnrealEngine5_Source_Analysis_Framework/blob/main/%ED%95%A8%EC%88%98%20%EA%B8%B0%EB%B0%98%20%EC%83%81%EC%84%B8%20%EB%B6%84%EC%84%9D/UWorld/(UWorld)InitializeNewWorld.md)
-
-
----
-
 # 동영상 첨부
 
 아래 영상은 실제 제가 옵시디언 툴을 통해서 작성하고 시각적으로 나타낸 것을 보여주는 영상입니다.
@@ -67,3 +47,22 @@ https://github.com/user-attachments/assets/3bb081fd-b410-4891-a055-892c3f5841e4
 
 
 https://youtu.be/tVKElFGBoLU
+
+---
+
+# 분석 내용 보러 가기
+
+## 클래스 분석
+[클래스 분석 보러 가기](https://github.com/dkglee/UnrealEngine5_Source_Analysis_Framework/tree/main/%ED%81%B4%EB%9E%98%EC%8A%A4%20%EA%B8%B0%EB%B0%98%20%EC%A0%84%EC%B2%B4%20%EB%B6%84%EC%84%9D/Class) <br>
+
+### 예: UObjectBaseUtilty 분석 내용
+[바로 가기](https://github.com/dkglee/UnrealEngine5_Source_Analysis_Framework/blob/main/%ED%81%B4%EB%9E%98%EC%8A%A4%20%EA%B8%B0%EB%B0%98%20%EC%A0%84%EC%B2%B4%20%EB%B6%84%EC%84%9D/Class/UObjectBaseUtility.md)
+
+[![UObjectBaseUtility](https://github.com/user-attachments/assets/761eb204-0611-4f27-beaf-834c7fce6ca0)](https://github.com/dkglee/UnrealEngine5_Source_Analysis_Framework/blob/main/%ED%81%B4%EB%9E%98%EC%8A%A4%20%EA%B8%B0%EB%B0%98%20%EC%A0%84%EC%B2%B4%20%EB%B6%84%EC%84%9D/Class/UObjectBaseUtility.md)
+
+## 함수 분석
+[함수 분석 보러 가기](https://github.com/dkglee/UnrealEngine5_Source_Analysis_Framework/tree/main/%ED%95%A8%EC%88%98%20%EA%B8%B0%EB%B0%98%20%EC%83%81%EC%84%B8%20%EB%B6%84%EC%84%9D)
+
+### 예: UWorld::InitializeNewWorld 분석 내용
+[바로 가기](https://github.com/dkglee/UnrealEngine5_Source_Analysis_Framework/blob/main/%ED%95%A8%EC%88%98%20%EA%B8%B0%EB%B0%98%20%EC%83%81%EC%84%B8%20%EB%B6%84%EC%84%9D/UWorld/(UWorld)InitializeNewWorld.md)
+[![image](https://github.com/user-attachments/assets/c3b4e195-63af-45e3-b4ea-16ba303c64fd)](https://github.com/dkglee/UnrealEngine5_Source_Analysis_Framework/blob/main/%ED%95%A8%EC%88%98%20%EA%B8%B0%EB%B0%98%20%EC%83%81%EC%84%B8%20%EB%B6%84%EC%84%9D/UWorld/(UWorld)InitializeNewWorld.md)
