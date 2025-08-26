@@ -25,7 +25,7 @@
 
 ---
 
-# 소스 코드 첨부
+# 분석 내용 보러 가기
 
 [클래스 분석 보러 가기](https://github.com/dkglee/UnrealEngine5_Source_Analysis_Framework/tree/main/%ED%81%B4%EB%9E%98%EC%8A%A4%20%EA%B8%B0%EB%B0%98%20%EC%A0%84%EC%B2%B4%20%EB%B6%84%EC%84%9D/Class) <br>
 [함수 분석 보러 가기](https://github.com/dkglee/UnrealEngine5_Source_Analysis_Framework/tree/main/%ED%95%A8%EC%88%98%20%EA%B8%B0%EB%B0%98%20%EC%83%81%EC%84%B8%20%EB%B6%84%EC%84%9D)
