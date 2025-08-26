@@ -58,6 +58,7 @@ https://youtu.be/tVKElFGBoLU
 ### 예: UObjectBaseUtilty 분석 내용
 [바로 가기](https://github.com/dkglee/UnrealEngine5_Source_Analysis_Framework/blob/main/%ED%81%B4%EB%9E%98%EC%8A%A4%20%EA%B8%B0%EB%B0%98%20%EC%A0%84%EC%B2%B4%20%EB%B6%84%EC%84%9D/Class/UObjectBaseUtility.md)
 
+> ⚠️ 아래 이미지는 단순 예시입니다. (클릭 시 상세 문서로 이동)
 [![UObjectBaseUtility](https://github.com/user-attachments/assets/761eb204-0611-4f27-beaf-834c7fce6ca0)](https://github.com/dkglee/UnrealEngine5_Source_Analysis_Framework/blob/main/%ED%81%B4%EB%9E%98%EC%8A%A4%20%EA%B8%B0%EB%B0%98%20%EC%A0%84%EC%B2%B4%20%EB%B6%84%EC%84%9D/Class/UObjectBaseUtility.md)
 
 ## 함수 분석
@@ -65,4 +66,5 @@ https://youtu.be/tVKElFGBoLU
 
 ### 예: UWorld::InitializeNewWorld 분석 내용
 [바로 가기](https://github.com/dkglee/UnrealEngine5_Source_Analysis_Framework/blob/main/%ED%95%A8%EC%88%98%20%EA%B8%B0%EB%B0%98%20%EC%83%81%EC%84%B8%20%EB%B6%84%EC%84%9D/UWorld/(UWorld)InitializeNewWorld.md)
+> ⚠️ 아래 이미지는 단순 예시입니다. (클릭 시 상세 문서로 이동)
 [![image](https://github.com/user-attachments/assets/c3b4e195-63af-45e3-b4ea-16ba303c64fd)](https://github.com/dkglee/UnrealEngine5_Source_Analysis_Framework/blob/main/%ED%95%A8%EC%88%98%20%EA%B8%B0%EB%B0%98%20%EC%83%81%EC%84%B8%20%EB%B6%84%EC%84%9D/UWorld/(UWorld)InitializeNewWorld.md)
